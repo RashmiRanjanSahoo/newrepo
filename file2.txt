@@ -1,1 +1,2 @@
 file 2 added in branch b2
+file 2 modified in branch b3
